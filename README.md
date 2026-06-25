@@ -49,3 +49,8 @@ Using Python, Pandas, and data visualization techniques, the analysis explores h
 - Analyze highly engaged brands to identify successful customer engagement strategies.
 
 ---
+## Sample Visualization
+
+<img width="989" height="590" alt="Consumer Engagement by Brand" src="https://github.com/user-attachments/assets/6cc5444a-cdb6-40c4-890e-d96baf1b598e" />
+<img width="846" height="614" alt="Top Rated Brands" src="https://github.com/user-attachments/assets/10940de0-8060-45df-a643-25ec01fd2af4" />
+<img width="989" height="590" alt="Ingredients in Highly Rated Products" src="https://github.com/user-attachments/assets/5869d2ea-0e88-43db-a6b7-0eb8d48b8dbd" />
