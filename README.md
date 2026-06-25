@@ -1,4 +1,3 @@
-# marketing-campaign-analysis
 # Beauty Industry Consumer Insights
 
 ## Project Overview
